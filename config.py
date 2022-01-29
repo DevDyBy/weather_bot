@@ -1,0 +1,4 @@
+from pyowm import OWM
+
+BOT_TOKEN = "2079014221:AAEBdC2rdm17ScA9-WJ4jDzFbgKyQx3sDM4"
+owm = OWM("a7414723bd773b6f41f5799a084baafa")
